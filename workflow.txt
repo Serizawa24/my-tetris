@@ -1,0 +1,24 @@
+0:00 INTRO
+01:25 Giới thiệu Game
+02:07 Cách chơi
+03:03 Viết HTML file
+04:55 Viết CSS file
+08:18 Viết JS file
+08:55 Khai báo các CONSTANTS
+10:37 Tạo và thao tác với canvas bằng JS
+12:15 Xây dựng Class Board
+24:20 Xây dựng Class Brick
+36:30 Viết hàm moveLeft (di chuyển sang trái)
+39:08 Viết hàm moveRight (di chuyển sang phải)
+39:36 Viết hàm moveDown (di chuyển xuống dưới)
+40:25 Viết hàm rorate (xoay)
+44:00 Xử lý sự kiện 'keydown'
+47:33 Xử lý va chạm
+58:34 Hàm tạo viên gạch mới ngẫu nhiên
+01:00:58 Xử lý gạch rơi xuống sau mỗi giây
+01:01:35 Xử lý khi gạch hạ cánh
+01:08:18 Xử lý khi hàng được lấp đầy (xử lý ăn điểm)
+01:13:48 Cập nhật điểm
+01:17:10 Xử lý Game Over
+01:32:55 Xử lý âm thanh
+01:35:18 OUTRO
